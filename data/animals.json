@@ -117,6 +117,15 @@
         "goofy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Ram",
+      "species": "Pig",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
